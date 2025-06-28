@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=spacze.spacze&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Spacze-Tesleem.Spacze-Tesleem&" />
 </div>
 
 ---
@@ -161,16 +161,16 @@ const tesleem = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=spacze&show_icons=true&count_private=true&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9&bg_color=0d1117" alt="Spacze github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacze&layout=compact&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Spacze-Tesleem&show_icons=true&count_private=true&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9&bg_color=0d1117" alt="Spacze-Tesleem github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spacze-Tesleem&layout=compact&hide_border=true&title_color=2196F3&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=spacze&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="200" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Spacze-Tesleem&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="200" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spacze&bg_color=0d1117&color=2196F3&line=2196F3&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spacze-Tesleem&bg_color=0d1117&color=2196F3&line=2196F3&point=ffffff&hide_border=true" />
 </div>
 
 ---
@@ -181,7 +181,7 @@ const tesleem = {
 
 - 🌱 **Portfolio Status:** Early stage but rapidly growing
 - 👯 **Collaboration:** Always open to innovative projects
-- 👨‍💻 **Projects:** Available on [GitHub](https://github.com/spacze)
+- 👨‍💻 **Projects:** Available on [GitHub](https://github.com/Spacze-Tesleem)
 - ✍️ **Writing:** Medium & Hashnode articles
 - 📧 **Contact:** spaczeofficial@gmail.com
 - 📄 **Experience:** Check my [LinkedIn](https://www.linkedin.com/in/spacze)
@@ -220,7 +220,7 @@ const tesleem = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=spacze&label=Profile%20views&color=2196F3&style=flat" alt="spacze" />
+  <img src="https://komarev.com/ghpvc/?username=Spacze-Tesleem&label=Profile%20views&color=2196F3&style=flat" alt="Spacze-Tesleem" />
 </div>
 
 ---
