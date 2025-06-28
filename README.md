@@ -3,12 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/spacze" target="_blank">
+  <a href="https://www.linkedin.com/in/tesleem-seidu-066847206/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/@spacze" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
+
   <a href="https://twitter.com/spacze_dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
@@ -41,10 +39,10 @@ I'm **Tesleem**, a passionate software developer and the visionary founder of **
 ```javascript
 const tesleem = {
     location: "Lagos, Nigeria 🇳🇬",
-    company: "Spacze",
-    role: "Founder & Lead Developer",
-    currentFocus: "Building Spacze ERP",
-    technologies: ["React", "Next.js", "C#", "ASP.NET", "TypeScript"],
+    brand: "Spacze",
+    role: "Frontend Developer & Accountant",
+    currentFocus: "Building Spacze ERP" "Web Application Software",
+    technologies: ["React", "Next.js", "C#", "ASP.NET", "TypeScript", "Tailwind", "node","mongoDB"],
     passions: ["Clean UI", "System Automation", "Digital Transformation"],
     collaboration: "Always open to innovative projects! 🤝"
 };
@@ -54,7 +52,7 @@ const tesleem = {
 
 **🧠 Learning Journey:** Mastering C#, ASP.NET, and advanced backend automation techniques
 
-**💼 Building the Future:** Creating next-gen HR Software, Inventory Tracking systems, and cutting-edge Fintech solutions
+**💼 Building the Future:** Creating next-gen HR, Project Management Software, Inventory Tracking systems, and cutting-edge Fintech solutions
 
 **📲 Innovation Focus:** Exploring social outreach automation, client onboarding funnels, and intelligent branding systems
 
