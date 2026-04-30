@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&pause=1000&color=A8D5A2&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;ERP+Systems+Architect;Fintech+Platform+Builder;Digital+Transformation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&pause=1000&color=A8D5A2&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;ERP+Systems+Architect;Fintech+Platform+Builder;System+Automation+Expert" />
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Spacze-Tesleem.Spacze-Tesleem&color=a8d5a2" />
 
@@ -55,11 +55,41 @@ const tesleem = {
 
 ---
 
+## 📑 Table of Contents
+
+- [About](#about)
+- [Quick Stats](#-quick-stats)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [Latest Achievements](#-latest-achievements)
+- [GitHub Analytics](#github-analytics)
+- [Community & Involvement](#community--involvement)
+- [Let's Connect](#-lets-connect)
+
+---
+
 ## About
 
-I'm **Tesleem**, founder of **Spacze Software Enterprise** — a creative engineering brand dedicated to building intelligent digital ecosystems that transform how businesses operate. I design and ship production-grade software across fintech, ERP, e-commerce, and web platforms.
+I'm **Tesleem**, founder of **Spacze Software Enterprise** — a creative engineering brand dedicated to building intelligent digital ecosystems that transform how businesses operate. I design and ship production-grade solutions for enterprise and fintech sectors with a focus on clean architecture, scalability, and user experience.
 
-My current mission is **Spacze ERP**: a comprehensive enterprise resource planning suite covering project management, HR, inventory, analytics, and more.
+**Current Mission:**
+- 🚀 Building **Spacze ERP**: a comprehensive enterprise resource planning suite with project management, HR, inventory, and analytics
+- 💡 Architecting scalable backend systems with C# & ASP.NET
+- 🎨 Crafting intuitive frontend experiences with React & Next.js
+- 🤖 Exploring AI-powered automation and system optimization
+
+---
+
+## 📊 Quick Stats
+
+<div align="center">
+
+![Years Experience](https://img.shields.io/badge/Experience-5%2B%20Years-a8d5a2?style=flat-square)
+![Projects Shipped](https://img.shields.io/badge/Projects%20Shipped-15%2B-a8d5a2?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-a8d5a2?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Enterprise%20%26%20Fintech-a8d5a2?style=flat-square)
+
+</div>
 
 ---
 
@@ -149,6 +179,16 @@ Secure payment processing with financial analytics, mobile banking features, and
 
 ---
 
+## 🔥 Latest Achievements
+
+- ✅ Deployed **CrownBridge Holdings** investment platform — live in production with 1000+ users
+- 🔨 Architecting **Spacze ERP** core modules (project management, HR automation, inventory tracking)
+- 📱 Developing mobile-optimized fintech solutions with advanced security
+- 🏆 Active contributor to open-source enterprise and fintech projects
+- 💡 Sharing technical insights on backend architecture and digital transformation
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -177,8 +217,27 @@ Secure payment processing with financial analytics, mobile banking features, and
 
 ---
 
+## 💬 Let's Connect
+
+I'm always open to:
+- **Freelance projects** in full-stack development & system architecture
+- **Technical partnerships** on ERP & fintech solutions
+- **Collaborations** with innovative teams and startups
+- **Speaking engagements** on backend architecture & digital transformation
+- **Code reviews** and mentoring on enterprise systems
+
+**Get in touch:**
+
+📧 **Email:** [spaczeofficial@gmail.com](mailto:spaczeofficial@gmail.com)  
+💼 **LinkedIn:** [Tesleem Seidu](https://www.linkedin.com/in/tesleem-seidu-066847206/)  
+🐦 **Twitter:** [@spacze_dev](https://twitter.com/spacze_dev)  
+🎥 **YouTube:** [SPACZE](https://www.youtube.com/@spacze)  
+🌐 **GitHub:** [Spacze-Tesleem](https://github.com/Spacze-Tesleem)
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Spacze-Tesleem&label=Profile+Views&color=a8d5a2&style=flat-square" />
   <br/><br/>
-  <sub><i>Building the future, one line of code at a time.</i></sub>
+  <sub><i>Building the future, one line of code at a time. 🚀</i></sub>
 </div>
